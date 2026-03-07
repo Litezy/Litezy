@@ -8,7 +8,7 @@ I'm a **Full Stack Developer and Computer Engineer** with a deep passion for bui
 
 On the frontend, I don't just build interfaces — I craft experiences. I specialize in building smooth, responsive, and visually polished UIs that users actually enjoy interacting with. From pixel-perfect layouts to fluid animations and intuitive user flows, I bring designs to life with clean and maintainable code using **React.js** and modern CSS patterns.
 
-On the backend, I architect and build robust, scalable server-side systems. I design RESTful APIs, manage databases, handle authentication, and structure backends that are built to grow. My backend work is grounded in best practices — clean architecture, proper error handling, security, and performance optimization — using **Node.js**, **Express.js**, and **MongoDB**.
+On the backend, I architect and build robust, scalable server-side systems. I design RESTful APIs, manage databases, handle authentication, and structure backends that are built to grow. My backend work is grounded in best practices — clean architecture, proper error handling, security, and performance optimization — using **Node.js**, **Express.js**, **Prisma**/**Sequelize** and **SQL databases (MySQL/PostgreSQL)**.
 
 ---
 
@@ -37,10 +37,10 @@ I gravitate toward projects that solve real problems — whether that's a full-s
 
 | Layer | Technologies |
 |---|---|
-| Frontend | React.js, Nextjs, JavaScript, HTML5, CSS3 |
-| Backend | Node.js, Express.js, Nestjs, PostgresSql, MySQL, MongoDB, REST APIs |
+| Frontend | React.js, Nextjs JavaScript, HTML5, CSS3 |
+| Backend | Node.js, Nestj, Express.js, MongoDB, MySQL, PostgreSQL, Prisma, Sequelize, REST APIs |
 | Blockchain | Solidity, Foundry, Hardhat, Ethers.js, OpenZeppelin |
-| Infrastructure | Git, GitHub, Linux, Docker, Networking, Systems Engineering |
+| Infrastructure | Git, Docker, GitHub, Linux, Networking, Systems Engineering |
 
 ---
 
