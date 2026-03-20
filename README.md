@@ -1,49 +1,97 @@
-# Hi there, I'm Belziee 👋
+<h1 align="center">Hey, I'm Litezy 👋</h1>
 
-I'm a **Full Stack Developer and Computer Engineer** with a deep passion for building products that are not just functional but visually compelling and engineered to last. My journey started over 5 years ago in the world of hardware — computer engineering, systems repair, and networking — giving me a rock-solid understanding of how technology works from the ground up. That foundation naturally evolved into software, where I've spent the last 3+ years crafting modern web applications and decentralized blockchain systems.
+<p align="center">
+  <strong>Full Stack Developer · Blockchain Engineer · Computer Engineer</strong>
+</p>
 
----
+<p align="left">
+  I build things that work beautifully — from pixel-perfect frontends to production-grade smart contracts.<br/>
+  Started in hardware and systems engineering, evolved into full-stack web and Web3 — 5+ years of going deeper, not just broader.<br/>
+  That background is why I see problems differently and build solutions that actually hold up.
+</p>
 
-## 💻 Web Development
-
-On the frontend, I don't just build interfaces — I craft experiences. I specialize in building smooth, responsive, and visually polished UIs that users actually enjoy interacting with. From pixel-perfect layouts to fluid animations and intuitive user flows, I bring designs to life with clean and maintainable code using **React.js** and modern CSS patterns.
-
-On the backend, I architect and build robust, scalable server-side systems. I design RESTful APIs, manage databases, handle authentication, and structure backends that are built to grow. My backend work is grounded in best practices — clean architecture, proper error handling, security, and performance optimization — using **Node.js**, **Express.js**, **Prisma**/**Sequelize** and **SQL databases (MySQL/PostgreSQL)**.
-
----
-
-## ⛓️ Blockchain & Web3 Development
-
-I build on Ethereum and EVM-compatible chains using **Solidity**, developing smart contracts that solve real-world problems. My Web3 work goes beyond writing contracts — I architect full decentralized systems end to end, from smart contract design and deployment to frontend integration. I've worked extensively with:
-
-- **Factory patterns** — deploying deterministic child contracts via CREATE2
-- **DeFi protocols** — building and interacting with Uniswap V2, liquidity management, swaps
-- **Onchain NFTs** — fully onchain dynamic SVG NFTs with live metadata
-- **ERC standards** — ERC20, ERC721 and their extensions
-- **Testing** — mainnet fork testing with Foundry, Hardhat, and TypeScript scripts
-- **Tooling** — Foundry, Hardhat, Anvil, Ethers.js, OpenZeppelin
-
-I care deeply about writing secure, gas-efficient smart contracts that don't just work in theory but hold up in production.
+<br/>
 
 ---
 
-## 🛠️ What I Build
+### 🧠 What I Do
 
-I gravitate toward projects that solve real problems — whether that's a full-stack web application with a seamless user experience or a decentralized protocol that removes the need for intermediaries. I believe the best software is built at the intersection of great design, solid engineering, and purposeful thinking.
+**Frontend** — I craft interfaces people enjoy using. Responsive, polished, and performant UIs built with React.js and modern CSS. I care about the details — animations, user flows, and clean component architecture — not just making things render.
 
----
+**Backend** — Scalable, well-structured server-side systems. RESTful APIs, database design, authentication, and performance optimization using Node.js, NestJS, Express.js, Prisma/Sequelize, and SQL databases.
 
-## 🧰 Tech Stack
+**Blockchain & Web3** — I build on Ethereum and EVM-compatible chains end to end. Not just contracts — full decentralized systems from smart contract design and deployment to frontend integration.
 
-| Layer | Technologies |
-|---|---|
-| Frontend | React.js, Nextjs JavaScript, HTML5, CSS3 |
-| Backend | Node.js, Nestj, Express.js, MongoDB, MySQL, PostgreSQL, Prisma, Sequelize, REST APIs |
-| Blockchain | Solidity, Foundry, Hardhat, Ethers.js, OpenZeppelin |
-| Infrastructure | Git, Docker, GitHub, Linux, Networking, Systems Engineering |
 
 ---
 
-## 📬 Let's Connect
+### 🧰 Tech Stack
 
-I'm always open to collaborating on interesting projects, contributing to open source, or just talking tech. Feel free to explore my repositories and reach out.
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wagmi-1C1C1C?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Litezy&show_icons=true&theme=transparent&hide_border=true&title_color=5eead4&icon_color=7dd3fc&text_color=cbd5e1&bg_color=0d1117&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litezy&layout=compact&theme=transparent&hide_border=true&title_color=5eead4&text_color=cbd5e1&bg_color=0d1117&langs_count=6"
+    height="165"
+  />
+</p>
+
+
+
+---
+
+### 📬 Let's Connect
+
+Open to collaborations, open source contributions, and good conversations about tech.<br/>
+Explore the repos — the code speaks louder than the bio.
+
+<p align="left">
+  <a  href="https://x.com/_belziee">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a  href="https://linkedin.com/in/belziee">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a  href="mailto:liteb237@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Litezy&theme=dark&hide_border=true&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b&background=0d1117"
+    height="150"
+  />
+</p>
+
