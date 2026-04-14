@@ -52,24 +52,9 @@
 
 </p>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Litezy&show_icons=true&theme=transparent&hide_border=true&title_color=5eead4&icon_color=7dd3fc&text_color=cbd5e1&bg_color=0d1117&rank_icon=github"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Litezy&layout=compact&theme=transparent&hide_border=true&title_color=5eead4&text_color=cbd5e1&bg_color=0d1117&langs_count=6"
-    height="165"
-  />
-</p>
 
 
 
----
 
 ### 📬 Let's Connect
 
@@ -90,10 +75,5 @@ Explore the repos — the code speaks louder than the bio.
 
 ---
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Litezy&theme=dark&hide_border=true&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff&stroke=1e293b&background=0d1117"
-    height="150"
-  />
-</p>
+
 
